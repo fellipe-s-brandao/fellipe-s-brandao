@@ -9,4 +9,4 @@ fellipe-s-brandao/fellipe-s-brandao is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/fellipe-s-brandao/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fellipe-s-brandao&theme=blue-green)](https://github.com/fellipe-s-brandao/github-readme-stats)
