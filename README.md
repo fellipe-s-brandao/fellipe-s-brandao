@@ -10,3 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fellipe-s-brandao&theme=white-blue)](https://github.com/fellipe-s-brandao/github-readme-stats)
+
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fellipe-s-brandao&theme=white-blue)](https://github.com/fellipe-s-brandao/github-readme-stats)
