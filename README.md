@@ -1,5 +1,5 @@
 
-<h1>✅Bem vindo ao meu GitHub🚀</h1>
+<h1>Bem vindo ao meu GitHub🚀</h1>
 
 👦Sobre mim:<br />
 
@@ -11,7 +11,7 @@
 👨‍🏫 Atualmente estou focando meus estudos no desenvolvimento Front-End, mas o objetivo é ser um desenvolvedor FullStack.<br />
 
 ⚡ Habilidades:
-<br />
+<br/>
 
 Front-end:
 <br/>
