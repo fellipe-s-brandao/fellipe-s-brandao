@@ -3,12 +3,13 @@
 
 👦Sobre mim:<br />
 
-👋 Me chamo Fellipe Silvério Brandão, tenho 19 anos.<br />
+👋 Me chamo Fellipe Silvério Brandão, tenho 20 anos.<br />
 📌 Lavras, Minas Gerais, Brasil.<br />
-💼 Procurando uma oportunidade de estágio.<br />
+💼 Desenvolvedor back-end júnior na empresa Delta Global.<br />
 🎓 Cursando Sistemas de Informação na Universidade Federal de Lavras(UFLA).<br />
 🎓 Sou formado como Técnico em Informatica, pela rede Sesi/Senai de Minas Gerais.<br />
-👨‍🏫 Atualmente estou focando meus estudos no desenvolvimento Front-End, mas o objetivo é ser um desenvolvedor FullStack.<br />
+👨‍🏫 Atualmente estou trabalhando com php, utilizando codeigniter, jquery e mysql.<br />
+📚 Estudando NodeJs, TypeScript, TDD e Clean Architecture.<br />
 
 ⚡ Habilidades:
 <div style="display: inline_block">
