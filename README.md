@@ -13,21 +13,23 @@
 
 ⚡ Habilidades:
 <div style="display: inline_block">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" height="30" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/react-js.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" height="30" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/codeigniter.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
+  <img align="center" height="30" alt="NodeJs" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" height="30" alt="ReactJs" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/react-js.svg" />
+  <img align="center" height="30" alt="Html" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" alt="css3" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" alt="JavaScript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" alt="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" height="30" alt="CodeIgniter" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/codeigniter.svg" />
+  <img align="center" height="30" width="40" alt="Php" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
 </div>
 <br>
 🎓 Estudando:
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" height="30" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/react-js.svg" />
+  <img align="center" height="30" alt="TypeScript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" height="30" alt="NodeJs" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" height="30" alt="ReactJs" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/react-js.svg" />
+  <img align="center" height="30" alt="Docker" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/docker.svg" />
+  <img align="center" height="30" alt="Postgres" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/postgresql.svg" />
 </div>
   <br>
 <div>
