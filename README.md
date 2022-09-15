@@ -1,7 +1,7 @@
 
 <h1>Bem vindo ao meu GitHub🚀</h1>
 
-👦Sobre mim:<br />
+👦Sobre mim:<br/>
 
 👋 Me chamo Fellipe Silvério Brandão, tenho 20 anos.<br />
 📌 Lavras, Minas Gerais, Brasil.<br />
