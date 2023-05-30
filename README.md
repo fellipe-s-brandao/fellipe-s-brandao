@@ -14,7 +14,9 @@
 ⚡ Habilidades:
 <div style="display: inline_block">
   <img align="center" height="30" alt="NodeJs" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" height="30" alt="TypeScript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" height="30" alt="ReactJs" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
+  <img align="center" height="40" alt="Docker" width="40" src="https://img.icons8.com/color/344/docker.png" />
   <img align="center" height="30" alt="Html" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" alt="css3" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" alt="JavaScript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
