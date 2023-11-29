@@ -8,7 +8,7 @@
 💼 Desenvolvedor back-end na empresa BRQ Digital Solutions.<br />
 🎓 Cursando Sistemas de Informação na Universidade Federal de Lavras(UFLA).<br />
 🎓 Sou formado como Técnico em Informatica, pela rede Sesi/Senai de Minas Gerais.<br />
-👨‍🏫 Atualmente estou trabalhando NodeJs, TypeScript, ReactJs, MySql, AWS e Docker .<br />
+👨‍🏫 Atualmente estou trabalhando com NodeJs, TypeScript, ReactJs, MySql, AWS e Docker .<br />
 📚 Estudando NodeJs, TypeScript, TDD, Docker, SOLID, DDD e aplicações em microserviços.<br />
 
 ⚡ Habilidades:
