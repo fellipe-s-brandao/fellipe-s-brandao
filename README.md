@@ -17,22 +17,19 @@
   <img align="center" height="30" alt="TypeScript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" height="30" alt="ReactJs" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
   <img align="center" height="40" alt="Docker" width="40" src="https://img.icons8.com/color/344/docker.png" />
-  <img align="center" height="30" alt="Html" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" alt="css3" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" alt="JavaScript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" alt="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" height="40" alt="CodeIgniter" width="40" src="https://cdn1.iconfinder.com/data/icons/logos-3/304/codeigniter-icon-256.png" />
   <img align="center" height="40" width="40" alt="Php" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
+  <img align="center" height="30" alt="mysql" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" height="30" alt="Postgres" width="40" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" />
 </div>
 <br>
 🎓 Estudando:
 <div style="display: inline_block"><br>
   <img align="center" height="30" alt="TypeScript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" height="30" alt="NodeJs" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img align="center" height="40" width="40" alt="Php" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
   <img align="center" height="30" alt="ReactJs" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
   <img align="center" height="40" alt="Docker" width="40" src="https://img.icons8.com/color/344/docker.png" />
-  <img align="center" height="30" alt="Postgres" width="40" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" />
 </div>
   <br>
 <div>
