@@ -5,11 +5,11 @@
 
 👋 Me chamo Fellipe Silvério Brandão, tenho 21 anos.<br />
 📌 Lavras, Minas Gerais, Brasil.<br />
-💼 Desenvolvedor back-end na empresa Delta Global.<br />
+💼 Desenvolvedor back-end na empresa BRQ Digital Solutions.<br />
 🎓 Cursando Sistemas de Informação na Universidade Federal de Lavras(UFLA).<br />
 🎓 Sou formado como Técnico em Informatica, pela rede Sesi/Senai de Minas Gerais.<br />
-👨‍🏫 Atualmente estou trabalhando NodeJs, ReactJs, php com o framework codeigniter, jquery e mysql.<br />
-📚 Estudando NodeJs, TypeScript, TDD, Docker, NestJs, GraphQl e conceitos de microserviços.<br />
+👨‍🏫 Atualmente estou trabalhando NodeJs, TypeScript, ReactJs, MySql, AWS e Docker .<br />
+📚 Estudando NodeJs, TypeScript, TDD, Docker, SOLID, DDD e aplicações em microserviços.<br />
 
 ⚡ Habilidades:
 <div style="display: inline_block">
@@ -33,8 +33,6 @@
   <img align="center" height="30" alt="ReactJs" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
   <img align="center" height="40" alt="Docker" width="40" src="https://img.icons8.com/color/344/docker.png" />
   <img align="center" height="30" alt="Postgres" width="40" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" />
-  <img align="center" height="40" alt="Nestjs" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_nestjs_icon_130355.png" />
-  <img align="center" height="40" alt="GraphQl" width="40" src="https://img.icons8.com/color/452/graphql.png" />
 </div>
   <br>
 <div>
