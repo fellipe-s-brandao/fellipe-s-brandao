@@ -3,7 +3,7 @@
 
 👦Sobre mim:<br/>
 
-👋 Me chamo Fellipe Silvério Brandão, tenho 21 anos.<br />
+👋 Me chamo Fellipe Silvério Brandão, tenho 22 anos.<br />
 📌 Lavras, Minas Gerais, Brasil.<br />
 💼 Desenvolvedor back-end na empresa BRQ Digital Solutions.<br />
 🎓 Cursando Sistemas de Informação na Universidade Federal de Lavras(UFLA).<br />
