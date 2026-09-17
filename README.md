@@ -3,12 +3,12 @@
 
 👦Sobre mim:<br/>
 
-👋 Me chamo Fellipe Silvério Brandão, tenho 22 anos.<br />
+👋 Me chamo Fellipe Silvério Brandão, tenho 24 anos.<br />
 📌 Lavras, Minas Gerais, Brasil.<br />
 💼 Desenvolvedor back-end na empresa Anota AI.<br />
-🎓 Cursando Sistemas de Informação na Universidade Federal de Lavras(UFLA).<br />
+🎓 Graduado em Sistemas de Informação na Universidade Federal de Lavras(UFLA).<br />
 🎓 Sou formado como Técnico em Informatica, pela rede Sesi/Senai de Minas Gerais.<br />
-👨‍🏫 Atualmente estou trabalhando com NodeJs, TypeScript, ReactJs, MySql, AWS e Docker .<br />
+👨‍🏫 Atualmente estou trabalhando com NodeJs, TypeScript, ReactJs, MongoDB, AWS e Docker .<br />
 📚 Estudando NodeJs, TypeScript, TDD, Docker, SOLID, DDD e aplicações em microserviços.<br />
 
 ⚡ Habilidades:
